@@ -34,10 +34,45 @@ export default function Identify({ navigation }) {
 
   const resetPhoto = () => setPhotoUri(null);
 
-  const confirmPhoto = () => {
-    console.log("Photo confirmed:", photoUri);
-    // You can navigate or save the photo here
-  };
+const confirmPhoto = async () => {
+  try {
+    console.log("Photo URI:", photoUri);
+
+    let formData = new FormData();
+
+    formData.append("file", {
+      uri: photoUri,
+      name: "photo.jpg",
+      type: "image/jpeg",
+    });
+
+    const response = await fetch("http://192.168.100.57:8000/api/predict/", {
+      method: "POST",
+      body: formData,
+    });
+
+
+    const responseText = await response.text();
+
+    let data;
+    try {
+      data = JSON.parse(responseText);
+    } catch (err) {
+      console.error("JSON parse failed:", err);
+      return;
+    }
+
+    navigation.navigate("Result", { 
+      plant: data,
+      photoUri: photoUri 
+    });
+
+  } catch (error) {
+    console.error("Error sending image:", error);
+  }
+};
+
+
 
   const toggleFlash = () => {
     setFlashMode((prev) => (prev === 'off' ? 'on' : 'off'));
