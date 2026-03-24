@@ -19,6 +19,7 @@ import Diagnose from "./Screens/Diagnose";
 import Discover from "./Screens/Discover";
 import DiscoverSinglePlant from "./Screens/DiscoverSinglePlant";
 import Journal from "./Screens/Journal";
+import JournalList from "./Screens/Non-empty Journal";
 import Weather_Water_alerts from "./Screens/Weather_Water_alerts";
 import TermsAndPolicy from "./Screens/T&P";
 import PrivacyPolicy from "./Screens/PrivacyPolicy";
@@ -31,6 +32,9 @@ import HerbalSingle from "./Screens/HerbalSingle";
 import Tutorials from "./Screens/Tutorials";
 import VideoPlayer from "./Screens/VideoPlayer";
 import You from "./Screens/You";
+import Personal_details from "./Screens/Personal_details";
+import HelpSupport from "./Screens/HelpSupport";
+import Result from "./Screens/Identify_result";
 import { WeatherProvider } from "./Screens/WeatherContext";
 
 
@@ -85,6 +89,7 @@ export default function App()
             <Stack.Screen name="Discover" component={Discover} />
             <Stack.Screen name="DiscoverSinglePlant" component={DiscoverSinglePlant} />
             <Stack.Screen name="Journal" component={Journal} />
+            <Stack.Screen name="JournalList" component={JournalList} />
             <Stack.Screen name="Weather_Water_alerts" component={Weather_Water_alerts} />
             <Stack.Screen name="TermsAndPolicy" component={TermsAndPolicy} />
             <Stack.Screen name="PrivacyPolicy" component={PrivacyPolicy} />
@@ -97,6 +102,10 @@ export default function App()
             <Stack.Screen name="Tutorials" component={Tutorials} />
             <Stack.Screen name="VideoPlayer" component={VideoPlayer} />
             <Stack.Screen name="You" component={You} />
+            <Stack.Screen name="Personal_details" component={Personal_details} />
+            <Stack.Screen name="HelpSupport" component={HelpSupport} />
+            <Stack.Screen name="Result" component={Result} />
+
 
           </Stack.Navigator>
         </InactivityHandler>
