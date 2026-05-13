@@ -1,0 +1,366 @@
+{
+  "weatherAlerts": "Weather Alerts",
+  "waterAlerts": "Water Alerts",
+  "customReminder": "Custom Reminder",
+  "taskName": "Task Name",
+  "save": "Save",
+  "delete": "Delete",
+  "daily": "Daily",
+  "weekly": "Weekly",
+  "custom": "Custom",
+  "selectLanguage": "Select your language",
+  "chooseLanguage": "Choose your preferred language for a personalized experience.",
+  "next": "Next",
+  "wherePlants": "Where are your plants?",
+  "multipleOptions": "You can pick multiple options.",
+  "indoorPlants": "Potted plants indoor",
+  "outdoorPlants": "Potted plants outdoor",
+  "gardenPlants": "Garden plants in ground",
+  "skip": "Skip",
+  "helpYouWith": "What can we help you with?",
+"sickPlant": "Get help with a sick plant",
+"waterReminders": "Get water & care reminders",
+"identifyPlant": "Identify a plant",
+"plantJournal": "Plant organization & journal",
+"somethingElse": "Something else",
+"plantCareInterest": "How interested are you in plant care?",
+"low": "Low",
+"lowDesc": "I just want to keep my plants alive",
+"medium": "Medium",
+"mediumDesc": "I like plant care and I'm alright with spending time on my plants",
+"high": "High",
+"highDesc": "I live for plants. I want to spend every waking hour on them",
+"plantExperience": "How experienced are you with plant care?",
+"beginner": "Beginner",
+"beginnerDesc": "Every now and then I manage to keep a cactus alive",
+"experienced": "Experienced",
+"experiencedDesc": "I have my plants under control, we are alright",
+"skilled": "Skilled",
+"skilledDesc": "What I don't know about plants is not worth knowing",
+"welcomeTo": "Welcome to",
+"natureLens": "NatureLens!",
+"welcomeDesc": "Recognize plants, spot diseases and discover their benefits - all with AI",
+"funFact": "Fun Fact!",
+  "loadingFunFact": "Loading fun fact...",
+  "identify": "Identify",
+  "plant": "Plant",
+  "diagnose": "Diagnose",
+  "disease": "Disease",
+  "discover": "Discover",
+  "usage": "Usage",
+  "plantCareTutorials": "Plant Care Tutorials",
+  "herbalVault": "Herbal Vault",
+  "weatherWaterAlerts": "Weather & Water Alerts",
+  "plantGrowthJournal": "Plant Growth Journal",
+  "home": "Home",
+  "community": "Community",
+  "you": "You",
+  "noPostsYet": "No Posts yet",
+  "loadingPosts": "Loading posts...",
+  "limitReached": "Limit Reached",
+  "maxImages": "You can only add up to 4 images.",
+
+  "error": "Error",
+  "titleContentRequired": "Title and content are required.",
+
+  "addPost": "Add Post",
+  "title": "Title",
+  "content": "Content",
+
+  "addPhoto": "Add Photo",
+  "post": "Post",
+
+  "posting": "Posting...",
+  "commentEmpty": "Comment cannot be empty.",
+
+  "comments": "Comments",
+  "noCommentsYet": "No Comments yet.",
+
+  "writeComment": "Write a comment...",
+  "deleteAccount": "Delete Account",
+
+  "deleteAccountHeading": "Are you sure you want to delete your account?",
+
+  "deleteAccountText1": "Once you delete your account, it cannot be undone. All your data will be permanently erased from this app, including your profile information, preferences, saved content, and any activity history.",
+
+  "deleteAccountText2": "We're sad to see you go, but we understand that sometimes it's necessary. Please take a moment to consider the consequences before proceeding.",
+  
+  "diagnosisResults": "Diagnosis Results",
+
+  "aiDiagnosisWarning": "This diagnosis is AI-based. Always verify with a professional before taking action.",
+
+  "unknownPlant": "Unknown Plant",
+
+  "details": "Details",
+
+  "description": "Description",
+  "causes": "Causes",
+  "treatment": "Treatment",
+
+  "na": "N/A",
+
+  "topPredictions": "Top 5 Predictions",
+
+  "diagnoseAgain": "Diagnose Again",
+
+  "backToHome": "Back to Home",
+  "cameraPermission": "We need your permission to show the camera",
+
+  "grantPermission": "Grant Permission",
+
+  "analyzing": "Analyzing...",
+  "loadingPlants": "Loading plants...",
+
+  "discoverUsage": "Discover usage",
+
+  "searchPlants": "Search for plants",
+
+  "plantsWithPurpose": "Plants with Purpose",
+
+  "plantsPurposeText": "Explore how plants are used in food, medicine and daily life",
+
+  "noResultsFound": "No results found",
+  "changeLanguage": "Change Language",
+"cancel": "Cancel",
+"loadingDetails": "Loading details...",
+"account": "Account",
+"personalDetails": "Personal Details",
+"privacyPolicy": "Privacy Policy",
+"termsOfUse": "Terms of Use",
+"settings": "Settings",
+"helpSupport": "Help & Support",
+"logout": "Log Out",
+"failedToLoadPlantDetails": "Failed to load plant details. Make sure you're logged in.",
+  "loadingPlantDetails": "Loading plant details...",
+  "plantDetailsNotFound": "Plant details not found",
+  "detailedInformation": "Detailed Information",
+  "family": "Family",
+  "origin": "Origin",
+  "height": "Height",
+  "light": "Light",
+  "watering": "Watering",
+  "toxicity": "Toxicity",
+  "uses": "Uses",
+  "interestingFacts": "Interesting Facts",
+  "helpTitle": "We're here to help",
+  "helpSubtitle": "Have questions, feedback, or need assistance? Reach out to us anytime through the options below.",
+  "contactUs": "Contact Us",
+  "chatOnWhatsapp": "Chat on WhatsApp",
+  "followUs": "Follow Us",
+  "more": "More",
+  "termsConditions": "Terms & Conditions",
+  "instagram": "Instagram",
+  "facebook": "Facebook",
+  "youtube": "YouTube",
+  "linkedin": "LinkedIn",
+  "failedToLoadHerbDetails": "Failed to load herb details.",
+  "loadingHerbDetails": "Loading herb details...",
+  "herbNotFound": "Herb not found",
+  "scientificName": "Scientific Name",
+  "about": "About",
+  "herbInformation": "Herb Information",
+  "type": "Type",
+  "usdaZone": "USDA Zone",
+  "keyBenefits": "Key Benefits",
+  "loadingHerbs": "Loading herbs...",
+  "featuredHerb": "Featured Herb of the Day",
+  "searchHerbs": "Search for herbs",
+  "identifyResults": "Identify Results",
+  "identifyWarning": "Our AI is smart, but not perfect! Always verify important information before use.",
+  "plantInformation": "Plant Information",
+  "genus": "Genus",
+  "commonNames": "Common Names",
+  "identifyAgain": "Identify Again",
+  "permissionRequired": "Permission required",
+  "failedOpenGallery": "Failed to open gallery",
+  "plantNameRequired": "Plant name is required",
+  "plantName": "Plant Name",
+  "enterPlantName": "Enter plant name (required)",
+  "notes": "Notes",
+  "enterNote": "Enter note (max 200 chars)",
+  "duplicateNote": "Duplicate Note",
+  "noteExists": "This note already exists.",
+  "maxNotes": "Max 10 notes.",
+  "addNote": "Add Note",
+  "plantPhotos": "Plant Photos",
+  "done": "Done",
+  "searchByPlantName": "Search by plant name",
+  "noJournalEntries": "No journal entries found.",
+  "success": "Success",
+  
+  "username": "Username",
+  "email": "Email",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "enterNewPassword": "Enter new password",
+  "edit": "Edit",
+  "saveChanges": "Save Changes",
+
+  "validEmail": "Please enter a valid email address",
+  "passwordMin": "Password must be at least 8 characters long",
+  "passwordSpaces": "Password should not contain spaces",
+  "passwordsNoMatch": "Passwords do not match",
+
+  "profileUpdated": "Profile updated successfully",
+  "profileUpdateFailed": "Failed to update profile",
+  "privacyIntroHeading": "Introduction",
+  "privacyAcceptanceHeading": "1. Acceptance of Terms",
+  "privacyAccountsHeading": "2. User Accounts",
+  "privacyPropertyHeading": "3. Intellectual Property",
+  "privacyServiceHeading": "4. Use of Service",
+  "privacyTerminationHeading": "5. Termination",
+  "privacyLawHeading": "6. Governing Law",
+  "privacyIntroText": "These Terms and Conditions (\"Terms\", \"Agreement\") govern your access to and use of the Herb Library mobile application and services (the \"Use\") operated by NatureLens (\"us\", \"we\", or \"our\"). Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.",
+
+  "privacyAcceptanceText1": "By creating an account, accessing, or using the Herb Library application, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the application.",
+
+  "privacyAcceptanceText2": "We reserve the right to modify this Agreement from time to time. We will notify you of any changes by posting the new Terms on this page. We encourage you to review this Agreement periodically for any changes. Your continued use of the application after any changes signifies your acceptance of the revised Terms.",
+
+  "privacyAccountsText1": "When you create an account with us, you must provide information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.",
+
+  "privacyAccountsText2": "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.",
+
+  "privacyAccountsText3": "You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.",
+
+  "privacyPropertyText1": "The Service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of Herb Library and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries.",
+
+  "privacyPropertyText2": "Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Herb Library.",
+
+  "privacyServiceText1": "You agree to use the Service only for lawful purposes and in a way that does not infringe the rights of, restrict or inhibit anyone else's use and enjoyment of the Service. Prohibited behavior includes harassing or causing distress or inconvenience to any other user, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the Service.",
+
+  "privacyServiceText2": "You must not misuse our Service by knowingly introducing viruses, trojans, worms, logic bombs, or other material that is malicious or technologically harmful. You must not attempt to gain unauthorized access to our Service, the server on which our Service is stored, or any server, computer, or database connected to our Service.",
+
+  "privacyTerminationText1": "We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.",
+
+  "privacyTerminationText2": "Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.",
+
+  "privacyTerminationText3": "All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.",
+
+  "privacyLawText1": "These Terms shall be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions.",
+
+  "privacyLawText2": "Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.",
+
+  "privacyContactText": "If you have questions or comments about this, feel free to email us at:",
+  "termsPolicy": "Terms and Policy",
+
+  "termsIntroHeading": "Introduction",
+  "termsAcceptanceHeading": "1. Acceptance of Terms",
+  "termsAccountsHeading": "2. User Accounts",
+  "termsPropertyHeading": "3. Intellectual Property",
+  "termsServiceHeading": "4. Use of Service",
+  "termsTerminationHeading": "5. Termination",
+  "termsLawHeading": "6. Governing Law",
+
+  "termsIntroText": "These Terms and Conditions (\"Terms\", \"Agreement\") govern your access to and use of the Herb Library mobile application and services (the \"Use\") operated by NatureLens (\"us\", \"we\", or \"our\"). Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.",
+
+  "termsAcceptanceText1": "By creating an account, accessing, or using the Herb Library application, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the application.",
+
+  "termsAcceptanceText2": "We reserve the right to modify this Agreement from time to time. We will notify you of any changes by posting the new Terms on this page. We encourage you to review this Agreement periodically for any changes. Your continued use of the application after any changes signifies your acceptance of the revised Terms.",
+
+  "termsAccountsText1": "When you create an account with us, you must provide information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.",
+
+  "termsAccountsText2": "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.",
+
+  "termsAccountsText3": "You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.",
+
+  "termsPropertyText1": "The Service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of Herb Library and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries.",
+
+  "termsPropertyText2": "Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Herb Library.",
+
+  "termsServiceText1": "You agree to use the Service only for lawful purposes and in a way that does not infringe the rights of, restrict or inhibit anyone else's use and enjoyment of the Service. Prohibited behavior includes harassing or causing distress or inconvenience to any other user, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the Service.",
+
+  "termsServiceText2": "You must not misuse our Service by knowingly introducing viruses, trojans, worms, logic bombs, or other material that is malicious or technologically harmful. You must not attempt to gain unauthorized access to our Service, the server on which our Service is stored, or any server, computer, or database connected to our Service.",
+
+  "termsTerminationText1": "We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.",
+
+  "termsTerminationText2": "Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.",
+
+  "termsTerminationText3": "All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.",
+
+  "termsLawText1": "These Terms shall be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions.",
+
+  "termsLawText2": "Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.",
+
+  "termsContactText": "If you have questions or comments about this, feel free to email us at:",
+
+  "accountRemoved": "Account Removed",
+
+  "thankYouUsing": "Thank you for using our app!",
+
+
+  "touIntroductionHeading": "Introduction",
+  "touIntroductionText": "These Terms and Conditions (\"Terms\", \"Agreement\") govern your access to and use of the Herb Library mobile application and services (the \"Use\") operated by NatureLens (\"us\", \"we\", or \"our\"). Your access to and use of the Service is conditioned upon your acceptance of and compliance with these Terms. These Terms apply to all visitors, users, and others who access or use the Service.",
+
+  "touAcceptanceHeading": "1. Acceptance of Terms",
+  "touAcceptanceText1": "By creating an account, accessing, or using the Herb Library application, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the application.",
+  "touAcceptanceText2": "We reserve the right to modify this Agreement from time to time. We will notify you of any changes by posting the new Terms on this page. We encourage you to review this Agreement periodically for any changes. Your continued use of the application after any changes signifies your acceptance of the revised Terms.",
+
+  "touAccountsHeading": "2. User Accounts",
+  "touAccountsText1": "When you create an account with us, you must provide information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.",
+  "touAccountsText2": "You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.",
+  "touAccountsText3": "You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.",
+
+  "touPropertyHeading": "3. Intellectual Property",
+  "touPropertyText1": "The Service and its original content (excluding content provided by users), features, and functionality are and will remain the exclusive property of Herb Library and its licensors. The Service is protected by copyright, trademark, and other laws of both the United States and foreign countries.",
+  "touPropertyText2": "Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of Herb Library.",
+
+  "touServiceHeading": "4. Use of Service",
+  "touServiceText1": "You agree to use the Service only for lawful purposes and in a way that does not infringe the rights of, restrict or inhibit anyone else's use and enjoyment of the Service. Prohibited behavior includes harassing or causing distress or inconvenience to any other user, transmitting obscene or offensive content, or disrupting the normal flow of dialogue within the Service.",
+  "touServiceText2": "You must not misuse our Service by knowingly introducing viruses, trojans, worms, logic bombs, or other material that is malicious or technologically harmful. You must not attempt to gain unauthorized access to our Service, the server on which our Service is stored, or any server, computer, or database connected to our Service.",
+
+  "touTerminationHeading": "5. Termination",
+  "touTerminationText1": "We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.",
+  "touTerminationText2": "Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.",
+  "touTerminationText3": "All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity, and limitations of liability.",
+
+  "touLawHeading": "6. Governing Law",
+  "touLawText1": "These Terms shall be governed and construed in accordance with the laws of California, United States, without regard to its conflict of law provisions.",
+  "touLawText2": "Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.",
+
+  "touContactText": "If you have questions or comments about this, feel free to email us at:",
+    "searchTutorials": "Search for tutorials",
+  "noTutorials": "No tutorials available",
+  
+  "validationError": "Validation Error",
+  "fillTaskField": "Please fill out the Task field",
+  "fillPlantsField": "Please fill out the Plants field",
+  "invalidPlantCharacters": "Invalid characters detected! Only letters, commas and spaces are allowed",
+  "selectFrequency": "Please select a frequency",
+  "selectCustomDay": "Please select at least one custom day",
+
+
+
+  "reminderUpdated": "Reminder updated successfully!",
+  "reminderSaved": "Reminder saved successfully!",
+  "updateReminderFailed": "Failed to update reminder",
+  "saveReminderFailed": "Failed to save reminder",
+  "deleteReminderFailed": "Failed to delete reminder",
+  "reminderDeleted": "Reminder deleted successfully!",
+
+  "timeToWater": "Time to water:",
+
+  "selectTime": "Select Time",
+  
+
+  "noWeatherThreats": "No weather threats this week",
+  "noReminders": "No reminders added yet",
+
+  "frostRisk": "Frost Risk",
+  "heavyRainfall": "Heavy Rainfall",
+  "extremeHeat": "Extreme Heat",
+  "strongWinds": "Strong Winds",
+
+ 
+  "taskPlaceholder": "e.g. Water the Rose",
+
+  "time": "Time",
+
+  "selectPlants": "Select Plants",
+  "plantsPlaceholder": "Enter plants (comma separated)",
+
+  "frequency": "Frequency",
+
+
+  "selectDay": "Select Day"
+
+}
